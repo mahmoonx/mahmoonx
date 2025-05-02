@@ -1,8 +1,7 @@
-## Hi there 👋
+## Maria | Criativa, curiosa e apaixonada por ideias boas
 
 <!--
-**mahmoonx/mahmoonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+*Oi! Eu sou a Maria — desenvolvedora em formação, futura empreendedora e alguém que ama transformar sentimentos em projetos.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
