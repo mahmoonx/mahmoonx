@@ -2,7 +2,7 @@
 <h3> Desenvolvedora em formação, futura empreendedora e alguém que ama transformar sentimentos em projetos. </h3>
 
 <main>
-  🎓 Estudante e criadora da Vanilla Coffee, uma cafeteria pensada com carinho pro meu TCC.<br>
+  🎓 Estudante de Front-End.<br>
   💡 Amo criar coisas bonitas, funcionais e com significado.<br>
   💻 Aprendendo com a vida, com a web e com cada commit.<br>
 
